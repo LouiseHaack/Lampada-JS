@@ -1,0 +1,34 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+#lampada img{
+    width: 40vw;
+    margin-left: 30vw;
+
+}
+
+#button img{
+    width: 150px;
+    margin-top: 10vw;
+}
+
+@media only screen and (min-width: 769px){
+   
+    
+    #lampada img{
+        width: 200px;
+        margin-left: 40vw;
+    
+    }
+    
+    #button img{
+        width: 200px;
+        margin-top: 3vw;
+    }
+
+}
+
+
+
